@@ -20,3 +20,4 @@ Ubuntu 18.04.6
 opencv-python 4.10.0.84
 torch         2.4.0+cu118
 ```
+You can also use the requirements in the original work: https://github.com/diffusion-classifier/diffusion-classifier/blob/master/environment.yml
