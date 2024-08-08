@@ -15,5 +15,8 @@ For the original model, please visit: https://github.com/diffusion-classifier/di
 The idea is to use this simplified model to "play around" with the components of the Diffusion Classifier using the Ipython Notebook.
 
 Tested using:
+```
+Ubuntu 18.04.6
 opencv-python 4.10.0.84
 torch         2.4.0+cu118
+```
